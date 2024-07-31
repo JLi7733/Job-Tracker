@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "name": "Software Engineer Intern - AI/ML",
+            "company": "Stealth Startup",
+            "location": "San Francisco, CA"
+        },
+        {
+            "name": "Software Engineer (SWE) Role",
+            "company": "zeroRISC",
+            "location": "Boston, MA"
+        },
+        {
+            "name": "Software Engineer, Internship",
+            "company": "Palantir Technologies",
+            "location": "New York, NY"
+        },
+        {
+            "name": "Software Engineer, Internship",
+            "company": "Palantir Technologies",
+            "location": "Palo Alto, CA"
+        },
+        {
+            "name": "Software Engineer, Internship",
+            "company": "Palantir Technologies",
+            "location": "Seattle, WA"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "Avid Technology Professionals",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 0 - Java/Jira/Maven/Gitlab/Python",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer (SWE) 0",
+            "company": "Fidelis Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 1",
+            "company": "Avid Technology Professionals",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "Avid Technology Professionals",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Junior Software Engineer",
+            "company": "Peterson Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Embedded SWE Intern - Fall",
+            "company": "Atomic Semi",
+            "location": "San Francisco, CA"
+        },
+        {
+            "name": "Junior Software Engineer",
+            "company": "GliaCell Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Backend Engineer (Multiple openings, ALL Levels) HYBRID NYC",
+            "company": "WireScreen",
+            "location": "New York, NY"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "SilverEdge",
+            "location": "Fort Meade, MD"
+        },
+        {
+            "name": "Software Engineer, New Grad",
+            "company": "Palantir Technologies",
+            "location": "New York, NY"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "Avid Technology Professionals",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "AI Development SWE (Paid Term-Time)",
+            "company": "PUNKU",
+            "location": "Boston, MA"
+        },
+        {
+            "name": "Junior Software Engineer",
+            "company": "Peterson Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "Amches, Inc. now an InterImage Company",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer",
+            "company": "T-Mobile",
+            "location": "Atlanta, GA"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "Farfield Systems, Inc",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "Columbia Technology Partners",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "ARSIEM Corporation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Junior Software Engineer",
+            "company": "Peterson Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "SWE-Developer Environments",
+            "company": "Lyft",
+            "location": "San Francisco County, CA"
+        },
+        {
+            "name": "Staff Software Engineer, AI Platform",
+            "company": "LinkedIn",
+            "location": "Mountain View, CA"
+        },
+        {
+            "name": "Software Engineer",
+            "company": "WireScreen",
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "name": "Software Engineer 1 - TypeScript/JavaScript/Java/C/C++/Perl/Python/React",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 0",
+            "company": "The Swift Group, LLC",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Senior Software Engineer, Perception, Machine Learning/Computer Vision",
+            "company": "Nuro",
+            "location": "Mountain View, CA"
+        },
+        {
+            "name": "Software Engineer 3 - C++/Jenkins/Gitlab/Python/Bash/SIGINT",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 1",
+            "company": "Columbia Technology Partners",
+            "location": "Fort Meade, MD"
+        },
+        {
+            "name": "Software Engineer - 0",
+            "company": "Vibrint",
+            "location": "Annapolis, MD"
+        },
+        {
+            "name": "Software Engineer I",
+            "company": "BTS",
+            "location": "Columbia, MD"
+        },
+        {
+            "name": "Junior Software Engineer",
+            "company": "Belay Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 1 - JavaScript/Java",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer",
+            "company": "Covariant",
+            "location": "Emeryville, CA"
+        },
+        {
+            "name": "Software Engineer 1 - Java/Golang/RabbitMQ/Maven/MongoDB",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer, New Grad - US Government",
+            "company": "Palantir Technologies",
+            "location": "Palo Alto, CA"
+        },
+        {
+            "name": "Software Engineer - Full Stack",
+            "company": "Kumo.AI",
+            "location": "Mountain View, CA"
+        },
+        {
+            "name": "SWE Developer",
+            "company": "Tata Consultancy Services",
+            "location": "Bellevue, WA"
+        },
+        {
+            "name": "Software Engineer 1",
+            "company": "Columbia Technology Partners",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Game Platform and Tools SWE",
+            "company": "QDStaff",
+            "location": "Las Vegas, NV"
+        },
+        {
+            "name": "Software Engineer Level 0",
+            "company": "WOOD Consulting Services, Inc.",
+            "location": "Maryland, United States"
+        },
+        {
+            "name": "Software Engineer (SWE) I",
+            "company": "Fidelis Technologies",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer",
+            "company": "ClearEdge",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Full Stack Engineer - Node.js, React (USA Based, 100% Remote)",
+            "company": "Bitcoin Devs Company",
+            "location": "United States"
+        },
+        {
+            "name": "Software Engineer, New Grad - US Government",
+            "company": "Palantir Technologies",
+            "location": "New York, NY"
+        },
+        {
+            "name": "Software Engineer (2023-0170)",
+            "company": "Acclaim Technical Services",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 1",
+            "company": "Columbia Technology Partners",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 2 - Java/Maven/Gitlab/Jira",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer 3",
+            "company": "Columbia Technology Partners",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Software Engineer Level 0",
+            "company": "WOOD Consulting Services, Inc.",
+            "location": "Maryland, United States"
+        },
+        {
+            "name": "Java or Python Software Developer (TB-SW2-08.022123)",
+            "company": "Capital Solutions Group (CSG)",
+            "location": "Fort Meade, MD"
+        },
+        {
+            "name": "Software Engineer 1 - Java/Confluence/Jira",
+            "company": "Captivation",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Senior Backend Software Engineer - Multiple Openings",
+            "company": "WireScreen",
+            "location": "New York, NY"
+        },
+        {
+            "name": "Full Stack Engineer",
+            "company": "Pinnacle Government Solutions",
+            "location": "Annapolis Junction, MD"
+        },
+        {
+            "name": "Python Developer/Software Engineer(AWS/GO/Linux) - W2 only",
+            "company": "Maxonic",
+            "location": "United States"
+        },
+        {
+            "name": "Python Developer",
+            "company": "Catalyst Technical Consulting Group, LLC",
+            "location": "Fort Meade, MD"
+        }
+    ]
+}

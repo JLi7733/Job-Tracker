@@ -1,38 +1,65 @@
-.App {
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.banner{
+  font-size: 100px;
+  background-color: azure;
+}
+.subtitle{
+  font-size: medium;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.section{
+  font-size: 80px;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.ArtistGrid{
+  display: grid;
+  gap: 20px;
+} 
+
+.JobCard{
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
-  align-items: center;
+  position: relative;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background-color: rosybrown;
+  font-family: inherit;
+} 
+
+.galleryImage{
+  width: 400px;
+  height: auto;
+}
+
+.title{
+  text-align: left;
+  font-size: 40px;
+}
+
+.company{
+  text-align: left;
+}
+
+.filters{
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+  padding: 20px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App {
+  text-align: center;  
 }
